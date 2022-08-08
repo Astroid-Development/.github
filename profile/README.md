@@ -22,5 +22,5 @@ We're just two passionate guys who want to share our resources we make, with the
 <h2 align="center"> Meet the team:</h2>
 <p align="center">
 <a href=https://ko-fi.com/socallmeastro><img width="420" src=https://github-readme-stats.vercel.app/api?username=SoCallMeAstro&count_private=true&include_all_commits=true&show_icons=true&title_color=ff4b60&text_color=ffffff&icon_color=ff4b60&hide_border=false&bg_color=000000&layout=compact&hide_title=false&hide_rank=false><a>
-<a href=https://github.com/ItzKizar><img width="420" src=https://github-readme-stats.vercel.app/api?username=ItzKizar&count_private=true&include_all_commits=true&show_icons=true&title_color=ff4b60&text_color=ffffff&icon_color=ff4b60&hide_border=false&bg_color=000000&layout=compact&
+<a href=https://ko-fi.com/kizar><img width="420" src=https://github-readme-stats.vercel.app/api?username=ItzKizar&count_private=true&include_all_commits=true&show_icons=true&title_color=ff4b60&text_color=ffffff&icon_color=ff4b60&hide_border=false&bg_color=000000&layout=compact&
 </p>
